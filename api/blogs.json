@@ -23,5 +23,10 @@
     "id": 5,
     "title": "Third Blog Post",
     "content": "This is the content of the third blog post."
+  },
+  {
+    "id": 6,
+    "title": "Third Blog Post",
+    "content": "This is the content of the third blog post."
   }
 ]
